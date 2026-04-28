@@ -1,0 +1,1083 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>202604282007018NESPF</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260428200701HBLXPY</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>3.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Legacy Project</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0-rc1</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1777399149221</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-moixk8r7-exj6x97xd</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Título. Descripción de la Sda</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Título. Descripción de la Sda</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Título. Descripción de la Sda</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moixk8r7-exj6x97xd</odePageId>
+      <odeBlockId>block-1777103868661-1k7dyvik0</odeBlockId>
+      <blockName>RUMBO AL FUTURO.</blockName>
+      <iconName>stop</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moixk8r7-exj6x97xd</odePageId>
+          <odeBlockId>block-1777103868661-1k7dyvik0</odeBlockId>
+          <odeIdeviceId>idevice-1777103868657-l819g0xxs</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">Se pretende dar a conocer información relativa a estudios posteriores y salidas profesionales disponibles para el alumnado que se encuentra en la etapa de Bachillerato. </p>
+<table border="1" style="width: 100.016%;">
+<tbody>
+<tr>
+<td style="width: 99.8288%;">
+<ol>
+<li><strong>Etapa y nivel:</strong> 1º y 2º de Bachillerato.</li>
+<li><strong>Áreas implicadas</strong>: Tutoría.</li>
+<li><strong>Agrupamientos y organización espacial</strong>: Gran grupo, grupo-clase, grupos heterogéneos y trabajo individual. </li>
+<li><strong>Temporalización:</strong> </li>
+</ol>
+<table border="1" style="width: 100.199%;">
+<tbody>
+<tr>
+<td style="width: 40.624%; text-align: center;"><strong>SESIONES/ACTUACIONES</strong></td>
+<td style="width: 32.1997%; text-align: center;"><strong>TEMPORALIZACIÓN</strong></td>
+<td style="width: 27.1451%; text-align: center;"><strong>RESPONSABLES</strong></td>
+</tr>
+<tr>
+<td style="width: 40.624%; text-align: center;">Sesiones individuales para alumnado y familias de orientación profesional (1º y 2º).</td>
+<td style="width: 32.1997%; text-align: center;">A lo largo del curso. </td>
+<td style="width: 27.1451%; text-align: center;">Orientadora.</td>
+</tr>
+<tr>
+<td style="width: 40.624%; text-align: center;">Charlas informativas PAU (2º).</td>
+<td style="width: 32.1997%; text-align: center;">1º trimestre</td>
+<td style="width: 27.1451%; text-align: center;">Orientadora y tutores/as.</td>
+</tr>
+<tr>
+<td style="width: 40.624%; text-align: center;">Charlas informativas FP (1º y 2º).</td>
+<td style="width: 32.1997%; text-align: center;">1º trimestre</td>
+<td style="width: 27.1451%; text-align: center;">Orientadora y tutores/as.</td>
+</tr>
+<tr>
+<td style="width: 40.624%; text-align: center;">Jornadas Universidad de Oviedo (2º). </td>
+<td style="width: 32.1997%; text-align: center;">1º trimestre</td>
+<td style="width: 27.1451%; text-align: center;">Orientadora, departamento de extraescolares y  tutoras/as.</td>
+</tr>
+<tr>
+<td style="width: 40.624%; text-align: center;">Taller emprendimiento Valnalón (1º).</td>
+<td style="width: 32.1997%; text-align: center;">2º trimestre</td>
+<td style="width: 27.1451%; text-align: center;">Orientadora y tutores/as.</td>
+</tr>
+<tr>
+<td style="width: 40.624%; text-align: center;">Difusión convocatoria becas y ayudas para estudios post-obligatorios (1º y 2º). </td>
+<td style="width: 32.1997%; text-align: center;">2º trimestre</td>
+<td style="width: 27.1451%; text-align: center;">Orientadora y PSC.</td>
+</tr>
+<tr>
+<td style="width: 40.624%; text-align: center;">Jornadas FP en el centro (1º)</td>
+<td style="width: 32.1997%; text-align: center;">2º trimestre</td>
+<td style="width: 27.1451%; text-align: center;">Orientadora y tutores/as. </td>
+</tr>
+<tr>
+<td style="width: 40.624%; text-align: center;">Jornadas de empleo ayuntamiento (1º y 2º)</td>
+<td style="width: 32.1997%; text-align: center;">3º trimestre</td>
+<td style="width: 27.1451%; text-align: center;">Orientadora, tutores/as y departamento de extraescolares. </td>
+</tr>
+<tr>
+<td style="width: 40.624%; text-align: center;">Sesiones sobre materias optativas y opciones académicas.</td>
+<td style="width: 32.1997%; text-align: center;">3º trimestre</td>
+<td style="width: 27.1451%; text-align: center;">Orientadora y tutores/as.</td>
+</tr>
+</tbody>
+</table>
+<p><br /></p>
+<p><strong>5. Productos que deberá desarrollar el alumnado: </strong></p>
+<ul>
+<li style="text-align: justify;">Elaboración de una infografía sobre su itinerario académico seleccionado. </li>
+<li style="text-align: justify;">Elaboración de podcast para la radio escolar sobre las actividades extraescolares realizadas (jornada Universidad de Oviedo y Taller de empleo del Ayuntamiento). </li>
+</ul>
+<p><strong>6. Herramientas utilizadas y recursos complementarios: </strong>Canva, correo institucional y Teams. </p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777103868657-l819g0xxs","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">Se pretende dar a conocer información relativa a estudios posteriores y salidas profesionales disponibles para el alumnado que se encuentra en la etapa de Bachillerato. </p>\n<table border=\"1\" style=\"width: 100.016%;\">\n<tbody>\n<tr>\n<td style=\"width: 99.8288%;\">\n<ol>\n<li><strong>Etapa y nivel:</strong> 1º y 2º de Bachillerato.</li>\n<li><strong>Áreas implicadas</strong>: Tutoría.</li>\n<li><strong>Agrupamientos y organización espacial</strong>: Gran grupo, grupo-clase, grupos heterogéneos y trabajo individual. </li>\n<li><strong>Temporalización:</strong> </li>\n</ol>\n<table border=\"1\" style=\"width: 100.199%;\">\n<tbody>\n<tr>\n<td style=\"width: 40.624%; text-align: center;\"><strong>SESIONES/ACTUACIONES</strong></td>\n<td style=\"width: 32.1997%; text-align: center;\"><strong>TEMPORALIZACIÓN</strong></td>\n<td style=\"width: 27.1451%; text-align: center;\"><strong>RESPONSABLES</strong></td>\n</tr>\n<tr>\n<td style=\"width: 40.624%; text-align: center;\">Sesiones individuales para alumnado y familias de orientación profesional (1º y 2º).</td>\n<td style=\"width: 32.1997%; text-align: center;\">A lo largo del curso. </td>\n<td style=\"width: 27.1451%; text-align: center;\">Orientadora.</td>\n</tr>\n<tr>\n<td style=\"width: 40.624%; text-align: center;\">Charlas informativas PAU (2º).</td>\n<td style=\"width: 32.1997%; text-align: center;\">1º trimestre</td>\n<td style=\"width: 27.1451%; text-align: center;\">Orientadora y tutores/as.</td>\n</tr>\n<tr>\n<td style=\"width: 40.624%; text-align: center;\">Charlas informativas FP (1º y 2º).</td>\n<td style=\"width: 32.1997%; text-align: center;\">1º trimestre</td>\n<td style=\"width: 27.1451%; text-align: center;\">Orientadora y tutores/as.</td>\n</tr>\n<tr>\n<td style=\"width: 40.624%; text-align: center;\">Jornadas Universidad de Oviedo (2º). </td>\n<td style=\"width: 32.1997%; text-align: center;\">1º trimestre</td>\n<td style=\"width: 27.1451%; text-align: center;\">Orientadora, departamento de extraescolares y  tutoras/as.</td>\n</tr>\n<tr>\n<td style=\"width: 40.624%; text-align: center;\">Taller emprendimiento Valnalón (1º).</td>\n<td style=\"width: 32.1997%; text-align: center;\">2º trimestre</td>\n<td style=\"width: 27.1451%; text-align: center;\">Orientadora y tutores/as.</td>\n</tr>\n<tr>\n<td style=\"width: 40.624%; text-align: center;\">Difusión convocatoria becas y ayudas para estudios post-obligatorios (1º y 2º). </td>\n<td style=\"width: 32.1997%; text-align: center;\">2º trimestre</td>\n<td style=\"width: 27.1451%; text-align: center;\">Orientadora y PSC.</td>\n</tr>\n<tr>\n<td style=\"width: 40.624%; text-align: center;\">Jornadas FP en el centro (1º)</td>\n<td style=\"width: 32.1997%; text-align: center;\">2º trimestre</td>\n<td style=\"width: 27.1451%; text-align: center;\">Orientadora y tutores/as. </td>\n</tr>\n<tr>\n<td style=\"width: 40.624%; text-align: center;\">Jornadas de empleo ayuntamiento (1º y 2º)</td>\n<td style=\"width: 32.1997%; text-align: center;\">3º trimestre</td>\n<td style=\"width: 27.1451%; text-align: center;\">Orientadora, tutores/as y departamento de extraescolares. </td>\n</tr>\n<tr>\n<td style=\"width: 40.624%; text-align: center;\">Sesiones sobre materias optativas y opciones académicas.</td>\n<td style=\"width: 32.1997%; text-align: center;\">3º trimestre</td>\n<td style=\"width: 27.1451%; text-align: center;\">Orientadora y tutores/as.</td>\n</tr>\n</tbody>\n</table>\n<p><br /></p>\n<p><strong>5. Productos que deberá desarrollar el alumnado: </strong></p>\n<ul>\n<li style=\"text-align: justify;\">Elaboración de una infografía sobre su itinerario académico seleccionado. </li>\n<li style=\"text-align: justify;\">Elaboración de podcast para la radio escolar sobre las actividades extraescolares realizadas (jornada Universidad de Oviedo y Taller de empleo del Ayuntamiento). </li>\n</ul>\n<p><strong>6. Herramientas utilizadas y recursos complementarios: </strong>Canva, correo institucional y Teams. </p>\n</td>\n</tr>\n</tbody>\n</table>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moixk8rn-nhyxqffzj</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>1. Intención educativa</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1. Intención educativa</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1. Intención educativa</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moixk8rn-nhyxqffzj</odePageId>
+      <odeBlockId>block-moe1pbvm-bqk12sbyh</odeBlockId>
+      <blockName></blockName>
+      <iconName>file</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moixk8rn-nhyxqffzj</odePageId>
+          <odeBlockId>block-moe1pbvm-bqk12sbyh</odeBlockId>
+          <odeIdeviceId>idevice-moe1pbvm-tuuvk7c7s</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Mediante esta unidad de aprendizaje se pretende:</p>
+<ul>
+<li>Dar a conocer las salidas profesionales y/o acceso a estudios posteriores. </li>
+<li>Colaborar con entidades, asociaciones y universidades. <br /></li>
+<li>Proporcionar asesoramiento individualizado al alumnado. </li>
+</ul>
+<p><strong>Relación con los ODS:</strong></p>
+<ul>
+<li>ODS 4. Educación de calidad. </li>
+<li>ODS 5. Igualdad de género. </li>
+<li>ODS 8. Trabajo y crecimiento económico. </li>
+<li>ODS 10. Reducción de desigualdades. </li>
+</ul>
+<p><strong>Relación con los retos del siglo XXI:</strong> </p>
+<ul>
+<li>Cambios en el mercado laboral. </li>
+<li>Transformación digital. </li>
+<li>Desarrollo personal y emocional. </li>
+<li>Ciudadanía global. </li>
+</ul>
+<p></p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-moe1pbvm-tuuvk7c7s","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Mediante esta unidad de aprendizaje se pretende:</p>\n<ul>\n<li>Dar a conocer las salidas profesionales y/o acceso a estudios posteriores. </li>\n<li>Colaborar con entidades, asociaciones y universidades. <br /></li>\n<li>Proporcionar asesoramiento individualizado al alumnado. </li>\n</ul>\n<p><strong>Relación con los ODS:</strong></p>\n<ul>\n<li>ODS 4. Educación de calidad. </li>\n<li>ODS 5. Igualdad de género. </li>\n<li>ODS 8. Trabajo y crecimiento económico. </li>\n<li>ODS 10. Reducción de desigualdades. </li>\n</ul>\n<p><strong>Relación con los retos del siglo XXI:</strong> </p>\n<ul>\n<li>Cambios en el mercado laboral. </li>\n<li>Transformación digital. </li>\n<li>Desarrollo personal y emocional. </li>\n<li>Ciudadanía global. </li>\n</ul>\n<p></p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moixk8ro-4mebmyheh</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>2. Elementos curriculares</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2. Elementos curriculares</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2. Elementos curriculares</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moixk8ro-4mebmyheh</odePageId>
+      <odeBlockId>block-1777106100072-45z6ld5bl</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moixk8ro-4mebmyheh</odePageId>
+          <odeBlockId>block-1777106100072-45z6ld5bl</odeBlockId>
+          <odeIdeviceId>idevice-1777106100066-ul5xa5q8t</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <table border="1" style="width: 100.016%; height: 164.16px;">
+<tbody>
+<tr style="height: 32.832px;">
+<td style="width: 49.9145%; height: 32.832px; text-align: center;"><strong>Competencias clave</strong></td>
+<td style="width: 49.9145%; height: 32.832px; text-align: center;"><strong>Descriptores operativos</strong></td>
+</tr>
+<tr style="height: 32.832px;">
+<td style="width: 49.9145%; height: 32.832px; text-align: center;">Competencia digital</td>
+<td style="width: 49.9145%; height: 32.832px;">
+<ul style="list-style-type: square;">
+<li>CD1.</li>
+</ul>
+</td>
+</tr>
+<tr style="height: 32.832px;">
+<td style="width: 49.9145%; height: 32.832px; text-align: center;">Competencia personal, social y de aprender a aprender. </td>
+<td style="width: 49.9145%; height: 32.832px;">
+<ul style="list-style-type: square;">
+<li>CPSAA1</li>
+<li>CPSAA 3.</li>
+<li>CPSAA 4.</li>
+<li>CPSAA 5.</li>
+</ul>
+</td>
+</tr>
+<tr style="height: 32.832px;">
+<td style="width: 49.9145%; height: 32.832px; text-align: center;">Competencia ciudadana.</td>
+<td style="width: 49.9145%; height: 32.832px;">
+<ul style="list-style-type: square;">
+<li>CC 4.</li>
+</ul>
+</td>
+</tr>
+<tr style="height: 32.832px;">
+<td style="width: 49.9145%; height: 32.832px; text-align: center;">Competencia emprendedora. </td>
+<td style="width: 49.9145%; height: 32.832px;">
+<ul style="list-style-type: square;">
+<li>CE 1.</li>
+<li>CE 2.</li>
+<li>CE 3.</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: justify;"><br /></p>
+<p style="text-align: justify;"><strong>Saberes básicos</strong>: Prueba de acceso a la Universidad, Formación Profesional, emprendimiento, becas, empleo e itinerarios educativos. </p>
+<p style="text-align: justify;">* No se pueden señalar las competencias específicas ya que se trata de una situación de aprendizaje dentro de la especialidad de orientación educativa, donde el trabajo se desarrollará principalmente en tutorías. Dicha intervención está incluida dentro del Programa de Orientación para el Desarrollo de la Carrera del centro. </p>
+<p style="text-align: justify;"><strong>Criterios de evaluación:</strong></p>
+<ul>
+<li style="text-align: justify;">Revisión inicial de la situación del alumnado (evaluación inicial).</li>
+<li style="text-align: justify;">Reuniones a lo largo del curso para el seguimiento de las actuaciones (evaluación continua). </li>
+<li style="text-align: justify;">Cuestionarios para establecer propuestas de mejora en la memoria del DO (evaluación final).<strong></strong></li>
+</ul>
+<p style="text-align: justify;"><strong>*</strong> El proceso de evaluación será distinto al uso al tratarse de una situación de aprendizaje enmarcada en el Programa de Orientación para el desarrollo de la carrera dentro de la orientación educativa.<strong> </strong></p>
+<p style="text-align: justify;"></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777106100066-ul5xa5q8t","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<table border=\"1\" style=\"width: 100.016%; height: 164.16px;\">\n<tbody>\n<tr style=\"height: 32.832px;\">\n<td style=\"width: 49.9145%; height: 32.832px; text-align: center;\"><strong>Competencias clave</strong></td>\n<td style=\"width: 49.9145%; height: 32.832px; text-align: center;\"><strong>Descriptores operativos</strong></td>\n</tr>\n<tr style=\"height: 32.832px;\">\n<td style=\"width: 49.9145%; height: 32.832px; text-align: center;\">Competencia digital</td>\n<td style=\"width: 49.9145%; height: 32.832px;\">\n<ul style=\"list-style-type: square;\">\n<li>CD1.</li>\n</ul>\n</td>\n</tr>\n<tr style=\"height: 32.832px;\">\n<td style=\"width: 49.9145%; height: 32.832px; text-align: center;\">Competencia personal, social y de aprender a aprender. </td>\n<td style=\"width: 49.9145%; height: 32.832px;\">\n<ul style=\"list-style-type: square;\">\n<li>CPSAA1</li>\n<li>CPSAA 3.</li>\n<li>CPSAA 4.</li>\n<li>CPSAA 5.</li>\n</ul>\n</td>\n</tr>\n<tr style=\"height: 32.832px;\">\n<td style=\"width: 49.9145%; height: 32.832px; text-align: center;\">Competencia ciudadana.</td>\n<td style=\"width: 49.9145%; height: 32.832px;\">\n<ul style=\"list-style-type: square;\">\n<li>CC 4.</li>\n</ul>\n</td>\n</tr>\n<tr style=\"height: 32.832px;\">\n<td style=\"width: 49.9145%; height: 32.832px; text-align: center;\">Competencia emprendedora. </td>\n<td style=\"width: 49.9145%; height: 32.832px;\">\n<ul style=\"list-style-type: square;\">\n<li>CE 1.</li>\n<li>CE 2.</li>\n<li>CE 3.</li>\n</ul>\n</td>\n</tr>\n</tbody>\n</table>\n<p style=\"text-align: justify;\"><br /></p>\n<p style=\"text-align: justify;\"><strong>Saberes básicos</strong>: Prueba de acceso a la Universidad, Formación Profesional, emprendimiento, becas, empleo e itinerarios educativos. </p>\n<p style=\"text-align: justify;\">* No se pueden señalar las competencias específicas ya que se trata de una situación de aprendizaje dentro de la especialidad de orientación educativa, donde el trabajo se desarrollará principalmente en tutorías. Dicha intervención está incluida dentro del Programa de Orientación para el Desarrollo de la Carrera del centro. </p>\n<p style=\"text-align: justify;\"><strong>Criterios de evaluación:</strong></p>\n<ul>\n<li style=\"text-align: justify;\">Revisión inicial de la situación del alumnado (evaluación inicial).</li>\n<li style=\"text-align: justify;\">Reuniones a lo largo del curso para el seguimiento de las actuaciones (evaluación continua). </li>\n<li style=\"text-align: justify;\">Cuestionarios para establecer propuestas de mejora en la memoria del DO (evaluación final).<strong></strong></li>\n</ul>\n<p style=\"text-align: justify;\"><strong>*</strong> El proceso de evaluación será distinto al uso al tratarse de una situación de aprendizaje enmarcada en el Programa de Orientación para el desarrollo de la carrera dentro de la orientación educativa.<strong> </strong></p>\n<p style=\"text-align: justify;\"></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moixk8rp-t9iy92e6m</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>3. Metodologías activas</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3. Metodologías activas</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3. Metodologías activas</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moixk8rp-t9iy92e6m</odePageId>
+      <odeBlockId>block-1777107114991-iwyftp2sa</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moixk8rp-t9iy92e6m</odePageId>
+          <odeBlockId>block-1777107114991-iwyftp2sa</odeBlockId>
+          <odeIdeviceId>idevice-1777107114988-i6l5kiz3d</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <ul>
+<li><strong>Diseño Universal de Aprendizaje 3.0</strong>, como enfoque didáctico que permite adaptar el proceso de enseñanza-aprendizaje a todo el alumnado. </li>
+<li><strong>Aprendizaje cooperativo</strong>. Trabajo en grupo heterogéneo donde cada alumno/a tiene una función y entre ellos deben complementarse para contribuir al objetivo general del grupo de trabajo. </li>
+<li><strong>Espacios de reflexión y debate</strong>. Para compartir experiencias, opiniones y percepciones en un clima de respeto bajo el cumplimiento de una serie de normas y así favorecer al desarrollo de una mirada crítica y de la escucha activa. </li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777107114988-i6l5kiz3d","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ul>\n<li><strong>Diseño Universal de Aprendizaje 3.0</strong>, como enfoque didáctico que permite adaptar el proceso de enseñanza-aprendizaje a todo el alumnado. </li>\n<li><strong>Aprendizaje cooperativo</strong>. Trabajo en grupo heterogéneo donde cada alumno/a tiene una función y entre ellos deben complementarse para contribuir al objetivo general del grupo de trabajo. </li>\n<li><strong>Espacios de reflexión y debate</strong>. Para compartir experiencias, opiniones y percepciones en un clima de respeto bajo el cumplimiento de una serie de normas y así favorecer al desarrollo de una mirada crítica y de la escucha activa. </li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-moixk8rp-t9iy92e6m</odePageId>
+      <odeBlockId>block-1777107488750-m7496yxkr</odeBlockId>
+      <blockName>Descargar el archivo fuente</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moixk8rp-t9iy92e6m</odePageId>
+          <odeBlockId>block-1777107488750-m7496yxkr</odeBlockId>
+          <odeIdeviceId>idevice-1777107488747-2br30cp8n</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-moixk8rp-t9iy92e6m</odePageId>
+      <odeBlockId>block-1777107513565-1jkhiu4ja</odeBlockId>
+      <blockName>Galería de imágenes</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moixk8rp-t9iy92e6m</odePageId>
+          <odeBlockId>block-1777107513565-1jkhiu4ja</odeBlockId>
+          <odeIdeviceId>idevice-1777107513564-pvtfm64n9</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moixk8rq-5tj0jvuqw</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>4. Vinculación con los proyectos y programas del centro</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4. Vinculación con los proyectos y programas del centro</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4. Vinculación con los proyectos y programas del centro</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moixk8rq-5tj0jvuqw</odePageId>
+      <odeBlockId>block-1777107526179-uayc7skfd</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moixk8rq-5tj0jvuqw</odePageId>
+          <odeBlockId>block-1777107526179-uayc7skfd</odeBlockId>
+          <odeIdeviceId>idevice-1777107526179-08w0aqxg7</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">En la Programación General Anual del centro educativo, se incluye el Programa Anual de Actuación del Departamento de Orientación, que se desarrolla en torno a las 3 líneas de intervención expuestas en el Decreto 147/2014 de 23 de diciembre por el que se regula la orientación académica y profesional del Principado de Asturias. Una de ellas es la orientación para el desarrollo de la carrera que se concreta en el Programa de Orientación para el Desarrollo de la Carrera (donde se encuentra incluida esta Sda). </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777107526179-08w0aqxg7","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">En la Programación General Anual del centro educativo, se incluye el Programa Anual de Actuación del Departamento de Orientación, que se desarrolla en torno a las 3 líneas de intervención expuestas en el Decreto 147/2014 de 23 de diciembre por el que se regula la orientación académica y profesional del Principado de Asturias. Una de ellas es la orientación para el desarrollo de la carrera que se concreta en el Programa de Orientación para el Desarrollo de la Carrera (donde se encuentra incluida esta Sda). </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moixk8rt-cahfe11qh</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>5. Actividades complementarias y extraescolares</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5. Actividades complementarias y extraescolares</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5. Actividades complementarias y extraescolares</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moixk8rt-cahfe11qh</odePageId>
+      <odeBlockId>block-1777107763312-jvk62cb9j</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moixk8rt-cahfe11qh</odePageId>
+          <odeBlockId>block-1777107763312-jvk62cb9j</odeBlockId>
+          <odeIdeviceId>idevice-1777107763307-0vzo74jgg</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <table border="1" style="width: 100.016%;">
+<tbody>
+<tr>
+<td style="width: 33.2755%; text-align: center;"><strong>Actividad</strong></td>
+<td style="width: 33.2755%; text-align: center;"><strong>Destinatarios</strong></td>
+<td style="width: 33.278%; text-align: center;"><strong>Temporalización</strong></td>
+</tr>
+<tr>
+<td style="width: 33.2755%; text-align: center;">Jornadas Universidad de Oviedo</td>
+<td style="width: 33.2755%; text-align: center;">2º bachillerato</td>
+<td style="width: 33.278%; text-align: center;">1º trimestre</td>
+</tr>
+<tr>
+<td style="width: 33.2755%; text-align: center;">Taller emprendimiento Valnalón</td>
+<td style="width: 33.2755%; text-align: center;">1º de bachillerato</td>
+<td style="width: 33.278%; text-align: center;">2º trimestre</td>
+</tr>
+<tr>
+<td style="width: 33.2755%; text-align: center;">Jornadas de empleo del ayuntamiento</td>
+<td style="width: 33.2755%; text-align: center;">1º y 2º de bachillerato</td>
+<td style="width: 33.278%; text-align: center;">3º trimestre</td>
+</tr>
+</tbody>
+</table>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777107763307-0vzo74jgg","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<table border=\"1\" style=\"width: 100.016%;\">\n<tbody>\n<tr>\n<td style=\"width: 33.2755%; text-align: center;\"><strong>Actividad</strong></td>\n<td style=\"width: 33.2755%; text-align: center;\"><strong>Destinatarios</strong></td>\n<td style=\"width: 33.278%; text-align: center;\"><strong>Temporalización</strong></td>\n</tr>\n<tr>\n<td style=\"width: 33.2755%; text-align: center;\">Jornadas Universidad de Oviedo</td>\n<td style=\"width: 33.2755%; text-align: center;\">2º bachillerato</td>\n<td style=\"width: 33.278%; text-align: center;\">1º trimestre</td>\n</tr>\n<tr>\n<td style=\"width: 33.2755%; text-align: center;\">Taller emprendimiento Valnalón</td>\n<td style=\"width: 33.2755%; text-align: center;\">1º de bachillerato</td>\n<td style=\"width: 33.278%; text-align: center;\">2º trimestre</td>\n</tr>\n<tr>\n<td style=\"width: 33.2755%; text-align: center;\">Jornadas de empleo del ayuntamiento</td>\n<td style=\"width: 33.2755%; text-align: center;\">1º y 2º de bachillerato</td>\n<td style=\"width: 33.278%; text-align: center;\">3º trimestre</td>\n</tr>\n</tbody>\n</table>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moixk8rv-qn0zllcn7</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>6. Atribución y fichero descargable.</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6. Atribución y fichero descargable.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6. Atribución y fichero descargable.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moixk8rv-qn0zllcn7</odePageId>
+      <odeBlockId>block-1777110064586-mejzhw1x9</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moixk8rv-qn0zllcn7</odePageId>
+          <odeBlockId>block-1777110064586-mejzhw1x9</odeBlockId>
+          <odeIdeviceId>idevice-1777110064581-9qjcmismb</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777110064581-9qjcmismb","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-moixk8rv-qn0zllcn7</odePageId>
+      <odeBlockId>block-1777110163736-sdqvd14w9</odeBlockId>
+      <blockName>Sitio web externo</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moixk8rv-qn0zllcn7</odePageId>
+          <odeBlockId>block-1777110163736-sdqvd14w9</odeBlockId>
+          <odeIdeviceId>idevice-1777110163733-1pss3gl46</odeIdeviceId>
+          <odeIdeviceTypeName>external-website</odeIdeviceTypeName>
+          <htmlView><![CDATA[      <div id="iframeWebsiteIdevice">       <iframe src="https://creativecommons.org/licenses/by-sa/4.0/" size="2" width="600" height="300" style="width:100%;">      </iframe>      <div class="iframe-error-message" style="display:none;">No se puede mostrar un iframe en HTTP en una web HTTPS.</div>       </div>      ]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
